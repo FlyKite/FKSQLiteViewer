@@ -1,0 +1,2 @@
+# FKSQLiteViewer
+A sqlite viewer
